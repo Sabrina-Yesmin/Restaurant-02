@@ -1,0 +1,26 @@
+<meta charset="UTF-8">
+	<title>Food Code Proudly Presents By Themexpert</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+	<!-- Fonts -->
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700' rel='stylesheet' type='text/css'>
+
+	<!-- Css -->
+	<link rel="stylesheet" href="<?php echo e(asset('website/css/nivo-slider.css')); ?>" type="text/css" />
+	<link rel="stylesheet" href="<?php echo e(asset('website/css/owl.carousel.css')); ?>">
+	<link rel="stylesheet" href="<?php echo e(asset('website/css/owl.theme.css')); ?>">
+	<link rel="stylesheet" href="<?php echo e(asset('website/css/bootstrap.min.css')); ?>">
+	<link rel="stylesheet" href="<?php echo e(asset('website/css/font-awesome.min.css')); ?>">
+	<link rel="stylesheet" href="<?php echo e(asset('website/css/style.css')); ?>">
+	<link rel="stylesheet" href="<?php echo e(asset('website/css/responsive.css')); ?>">
+
+	<!-- jS -->
+	<script src="<?php echo e(asset('website/js/jquery.min.js')); ?> " type="text/javascript"></script>
+	<script src="<?php echo e(asset('website/js/bootstrap.min.js')); ?> " type="text/javascript"></script>
+	<script src="<?php echo e(asset('website/js/jquery.nivo.slider.js')); ?> " type="text/javascript"></script>
+	<script src="<?php echo e(asset('website/js/owl.carousel.min.js')); ?> " type="text/javascript"></script>
+	<script src="<?php echo e(asset('website/js/jquery.nicescroll.js')); ?> "></script>
+	<script src="<?php echo e(asset('website/js/jquery.scrollUp.min.js')); ?> "></script>
+	<script src="<?php echo e(asset('website/js/main.js')); ?> " type="text/javascript"></script>
+<?php /**PATH C:\xampp\htdocs\finalsd\resources\views/website/includes/whead.blade.php ENDPATH**/ ?>
